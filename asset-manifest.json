@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/task-360/static/css/main.4ae3d54a.css",
-    "main.js": "/task-360/static/js/main.6675d971.js",
+    "main.js": "/task-360/static/js/main.07b5ecbc.js",
     "static/js/522.352b9781.chunk.js": "/task-360/static/js/522.352b9781.chunk.js",
     "static/media/remixicon.svg?t=1690730386070": "/task-360/static/media/remixicon.50bf1949f666e36cab12.svg",
     "static/media/materialdesignicons-webfont.eot": "/task-360/static/media/materialdesignicons-webfont.d95c91e88cc28d3305af.eot",
@@ -848,6 +848,6 @@
   },
   "entrypoints": [
     "static/css/main.4ae3d54a.css",
-    "static/js/main.6675d971.js"
+    "static/js/main.07b5ecbc.js"
   ]
 }
